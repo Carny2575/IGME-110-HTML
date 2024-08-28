@@ -1,3 +1,3 @@
 # IGME-110-Repo
 
-!(md-images/cassie.jpg)
+![dog](md-images/cassie.jpg)
